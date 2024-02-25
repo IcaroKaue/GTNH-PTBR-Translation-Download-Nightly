@@ -6,6 +6,6 @@
 3. Clique em Arquivo -> Criar Tarefa Básica, no canto superior esquerdo.
 4. Dê um nome a essa tarefa. Recomendo "Baixar nightly da tradução PT-BR do GTNH."
 5. Em Disparador, selecione "Diaramente". Configure para rodar todos os dias, às 21 horas.
-6. Clique em "Iniciar um Programa" e selecione o script.
+6. Clique em "Iniciar um Programa" e selecione o script. Coloque o caminho para sua pasta .minecraft do GTNH no campo "Iniciar Em"
 7. Pronto!
    
